@@ -1,0 +1,1666 @@
+[
+  {
+    "lat": "31.740675",
+    "long": "-24.00582222222222",
+    "url": "http://farm5.static.flickr.com/4480/37430278740_3de23dd209.jpg",
+    "title": "Chinspot Batis (female)",
+    "classification": {
+      "tags": [
+        {
+          "name": "bird",
+          "confidence": 0.9963124394416809
+        },
+        {
+          "name": "sitting",
+          "confidence": 0.9951518774032593
+        },
+        {
+          "name": "perched",
+          "confidence": 0.9800675511360168
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9786548018455505
+        },
+        {
+          "name": "black",
+          "confidence": 0.9349915981292725
+        },
+        {
+          "name": "branch",
+          "confidence": 0.9142464399337769
+        },
+        {
+          "name": "animal",
+          "confidence": 0.8056772351264954
+        },
+        {
+          "name": "oscine",
+          "confidence": 0.5671510696411133,
+          "hint": "bird"
+        },
+        {
+          "name": "colorful",
+          "confidence": 0.46654874086380005
+        },
+        {
+          "name": "colored",
+          "confidence": 0.24219617247581482
+        }
+      ],
+      "description": {
+        "tags": [
+          "bird",
+          "sitting",
+          "small",
+          "perched",
+          "outdoor",
+          "black",
+          "branch",
+          "animal",
+          "top",
+          "white",
+          "colorful",
+          "wooden",
+          "little",
+          "brown",
+          "colored",
+          "yellow",
+          "blue",
+          "standing",
+          "red",
+          "green"
+        ],
+        "captions": [
+          {
+            "text": "a small bird perched on a tree branch",
+            "confidence": 0.9516151726720449
+          }
+        ]
+      },
+      "requestId": "5d629a59-6e75-4d25-bf6c-c95b5e28e039",
+      "metadata": {
+        "width": 500,
+        "height": 375,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.33339722222222",
+    "long": "-23.733511111111113",
+    "url": "http://farm5.static.flickr.com/4443/37430274980_84fe73c130.jpg",
+    "title": "Little Bee-eater",
+    "classification": {
+      "tags": [
+        {
+          "name": "outdoor",
+          "confidence": 0.9985039234161377
+        },
+        {
+          "name": "tree",
+          "confidence": 0.9831010699272156
+        },
+        {
+          "name": "sitting",
+          "confidence": 0.9788772463798523
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9426349401473999
+        },
+        {
+          "name": "branch",
+          "confidence": 0.7912495732307434
+        },
+        {
+          "name": "bird",
+          "confidence": 0.7354958057403564
+        },
+        {
+          "name": "yellow",
+          "confidence": 0.6703642010688782
+        },
+        {
+          "name": "perched",
+          "confidence": 0.6631963849067688
+        },
+        {
+          "name": "colorful",
+          "confidence": 0.3773930072784424
+        },
+        {
+          "name": "colored",
+          "confidence": 0.2598770558834076
+        }
+      ],
+      "description": {
+        "tags": [
+          "outdoor",
+          "sitting",
+          "bird",
+          "animal",
+          "small",
+          "branch",
+          "yellow",
+          "top",
+          "perched",
+          "colorful",
+          "colored",
+          "green",
+          "little",
+          "black",
+          "white",
+          "blue",
+          "water"
+        ],
+        "captions": [
+          {
+            "text": "a small bird sitting on a branch",
+            "confidence": 0.9658895305039227
+          }
+        ]
+      },
+      "requestId": "5131c90a-0633-49d1-9825-1a27610b5368",
+      "metadata": {
+        "width": 500,
+        "height": 375,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.265605555555556",
+    "long": "-22.993594444444444",
+    "url": "http://farm5.static.flickr.com/4513/37430271150_4834626949.jpg",
+    "title": "White-fronted Bee-eater",
+    "classification": {
+      "tags": [
+        {
+          "name": "bird",
+          "confidence": 0.9992190599441528
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9942769408226013
+        },
+        {
+          "name": "colorful",
+          "confidence": 0.9935488104820251
+        },
+        {
+          "name": "sitting",
+          "confidence": 0.9893497228622437
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9791762828826904
+        },
+        {
+          "name": "colored",
+          "confidence": 0.8709907531738281
+        },
+        {
+          "name": "branch",
+          "confidence": 0.8351693749427795
+        },
+        {
+          "name": "perched",
+          "confidence": 0.8190087676048279
+        },
+        {
+          "name": "green",
+          "confidence": 0.6885834336280823
+        },
+        {
+          "name": "bee eater",
+          "confidence": 0.47728919982910156,
+          "hint": "bird"
+        }
+      ],
+      "description": {
+        "tags": [
+          "bird",
+          "animal",
+          "colorful",
+          "sitting",
+          "outdoor",
+          "small",
+          "colored",
+          "branch",
+          "perched",
+          "top",
+          "green",
+          "yellow",
+          "black",
+          "piece",
+          "orange",
+          "little",
+          "standing",
+          "red",
+          "open",
+          "wooden",
+          "blue",
+          "white"
+        ],
+        "captions": [
+          {
+            "text": "a colorful bird perched on a tree branch",
+            "confidence": 0.914409725760909
+          }
+        ]
+      },
+      "requestId": "d683c195-e88c-47dd-8f14-04635a946e3b",
+      "metadata": {
+        "width": 500,
+        "height": 375,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.898038888888887",
+    "long": "-24.791955555555557",
+    "url": "http://farm5.static.flickr.com/4464/37003799093_b8875f7d10.jpg",
+    "title": "Black-backed Puffback",
+    "classification": {
+      "tags": [
+        {
+          "name": "tree",
+          "confidence": 0.9999583959579468
+        },
+        {
+          "name": "bird",
+          "confidence": 0.9998635053634644
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.999402642250061
+        },
+        {
+          "name": "sitting",
+          "confidence": 0.9958813190460205
+        },
+        {
+          "name": "branch",
+          "confidence": 0.9958794116973877
+        },
+        {
+          "name": "perched",
+          "confidence": 0.9776157736778259
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9745472073554993
+        },
+        {
+          "name": "black",
+          "confidence": 0.7935469746589661
+        }
+      ],
+      "description": {
+        "tags": [
+          "bird",
+          "outdoor",
+          "sitting",
+          "branch",
+          "small",
+          "perched",
+          "animal",
+          "black",
+          "top",
+          "white",
+          "little",
+          "standing",
+          "resting",
+          "brown",
+          "gray",
+          "grey",
+          "colorful",
+          "wooden",
+          "red"
+        ],
+        "captions": [
+          {
+            "text": "a small bird perched on a tree branch",
+            "confidence": 0.9848365818717502
+          }
+        ]
+      },
+      "requestId": "bb412c97-73e1-4c87-9b64-11d806902cd8",
+      "metadata": {
+        "width": 500,
+        "height": 375,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.85946388888889",
+    "long": "-24.752833333333335",
+    "url": "http://farm5.static.flickr.com/4512/37415590080_22272a03e3.jpg",
+    "title": "Cheetah Brothers",
+    "classification": {
+      "tags": [
+        {
+          "name": "grass",
+          "confidence": 0.9999998807907104
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9997559189796448
+        },
+        {
+          "name": "big cat",
+          "confidence": 0.9973862767219543,
+          "hint": "animal"
+        },
+        {
+          "name": "dry",
+          "confidence": 0.9961438179016113
+        },
+        {
+          "name": "mammal",
+          "confidence": 0.9922045469284058,
+          "hint": "animal"
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9916713237762451
+        },
+        {
+          "name": "field",
+          "confidence": 0.9908691644668579
+        },
+        {
+          "name": "brown",
+          "confidence": 0.9600300192832947
+        },
+        {
+          "name": "tall",
+          "confidence": 0.95302414894104
+        },
+        {
+          "name": "standing",
+          "confidence": 0.9130560755729675
+        },
+        {
+          "name": "group",
+          "confidence": 0.7832285165786743
+        },
+        {
+          "name": "cheetah",
+          "confidence": 0.6303648352622986,
+          "hint": "animal"
+        },
+        {
+          "name": "lion",
+          "confidence": 0.6271215081214905,
+          "hint": "animal"
+        },
+        {
+          "name": "grassy",
+          "confidence": 0.441769540309906
+        },
+        {
+          "name": "staring",
+          "confidence": 0.1714845895767212
+        }
+      ],
+      "description": {
+        "tags": [
+          "grass",
+          "outdoor",
+          "cat",
+          "dry",
+          "mammal",
+          "animal",
+          "field",
+          "brown",
+          "tall",
+          "standing",
+          "group",
+          "lion",
+          "looking",
+          "grassy",
+          "top",
+          "open",
+          "grazing",
+          "camera",
+          "herd",
+          "high",
+          "zebra",
+          "large",
+          "plane"
+        ],
+        "captions": [
+          {
+            "text": "a lion standing on a dry grass field",
+            "confidence": 0.9875952779563902
+          }
+        ]
+      },
+      "requestId": "68eab6b8-8ddc-4c5a-81b5-74d0063811fb",
+      "metadata": {
+        "width": 500,
+        "height": 281,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.76554722222222",
+    "long": "-24.367722222222223",
+    "url": "http://farm5.static.flickr.com/4483/37415589830_ffd0f6c6fb.jpg",
+    "title": "Cheetah on Dead Tree",
+    "classification": {
+      "tags": [
+        {
+          "name": "big cat",
+          "confidence": 0.9978098273277283,
+          "hint": "animal"
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9973688125610352
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9970381259918213
+        },
+        {
+          "name": "tree",
+          "confidence": 0.9967791438102722
+        },
+        {
+          "name": "mammal",
+          "confidence": 0.9914660453796387,
+          "hint": "animal"
+        },
+        {
+          "name": "leopard",
+          "confidence": 0.6857098340988159,
+          "hint": "animal"
+        },
+        {
+          "name": "cheetah",
+          "confidence": 0.38946789503097534,
+          "hint": "animal"
+        },
+        {
+          "name": "lion",
+          "confidence": 0.27228474617004395,
+          "hint": "animal"
+        }
+      ],
+      "description": {
+        "tags": [
+          "cat",
+          "outdoor",
+          "animal",
+          "mammal",
+          "grass",
+          "leopard",
+          "standing",
+          "bird",
+          "small",
+          "brown",
+          "top",
+          "group",
+          "lion",
+          "young",
+          "field",
+          "baby",
+          "sitting",
+          "walking",
+          "little",
+          "dry",
+          "large",
+          "branch",
+          "tall",
+          "white",
+          "grazing",
+          "herd"
+        ],
+        "captions": [
+          {
+            "text": "a leopard standing on a branch",
+            "confidence": 0.9640980958034358
+          }
+        ]
+      },
+      "requestId": "c2a889f7-c8d3-41fd-8556-ad621d7c33f0",
+      "metadata": {
+        "width": 500,
+        "height": 281,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.85946388888889",
+    "long": "-24.752833333333335",
+    "url": "http://farm5.static.flickr.com/4487/37415589520_4977be382d.jpg",
+    "title": "Cheetah on the Hunt",
+    "classification": {
+      "tags": [
+        {
+          "name": "grass",
+          "confidence": 0.9999998807907104
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9999489784240723
+        },
+        {
+          "name": "dry",
+          "confidence": 0.9931904673576355
+        },
+        {
+          "name": "field",
+          "confidence": 0.9917464256286621
+        },
+        {
+          "name": "tall",
+          "confidence": 0.9912161827087402
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9906662106513977
+        },
+        {
+          "name": "mammal",
+          "confidence": 0.9834737181663513,
+          "hint": "animal"
+        },
+        {
+          "name": "big cat",
+          "confidence": 0.9635158777236938,
+          "hint": "animal"
+        },
+        {
+          "name": "brown",
+          "confidence": 0.9543709754943848
+        },
+        {
+          "name": "cheetah",
+          "confidence": 0.9093350768089294,
+          "hint": "animal"
+        },
+        {
+          "name": "standing",
+          "confidence": 0.8534045815467834
+        },
+        {
+          "name": "grassy",
+          "confidence": 0.5909866690635681
+        },
+        {
+          "name": "high",
+          "confidence": 0.30922648310661316
+        }
+      ],
+      "description": {
+        "tags": [
+          "grass",
+          "outdoor",
+          "dry",
+          "field",
+          "tall",
+          "animal",
+          "mammal",
+          "cat",
+          "brown",
+          "cheetah",
+          "standing",
+          "grassy",
+          "camera",
+          "group",
+          "top",
+          "walking",
+          "high",
+          "young",
+          "plane",
+          "herd",
+          "zebra"
+        ],
+        "captions": [
+          {
+            "text": "a cheetah standing on a dry grass field",
+            "confidence": 0.9821951575551567
+          }
+        ]
+      },
+      "requestId": "8e24838f-0586-4913-b80f-d7ea846e43e5",
+      "metadata": {
+        "width": 500,
+        "height": 281,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.76554722222222",
+    "long": "-24.367722222222223",
+    "url": "http://farm5.static.flickr.com/4487/37415589100_626623bbf4.jpg",
+    "title": "Cheetah Surveying the Land",
+    "classification": {
+      "tags": [
+        {
+          "name": "tree",
+          "confidence": 0.9977586269378662
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9965952038764954
+        },
+        {
+          "name": "big cat",
+          "confidence": 0.9965367317199707,
+          "hint": "animal"
+        },
+        {
+          "name": "mammal",
+          "confidence": 0.996364951133728,
+          "hint": "animal"
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.989401638507843
+        },
+        {
+          "name": "leopard",
+          "confidence": 0.47603970766067505,
+          "hint": "animal"
+        },
+        {
+          "name": "cheetah",
+          "confidence": 0.4102495014667511,
+          "hint": "animal"
+        },
+        {
+          "name": "dry",
+          "confidence": 0.25763577222824097
+        }
+      ],
+      "description": {
+        "tags": [
+          "animal",
+          "cat",
+          "mammal",
+          "outdoor",
+          "grass",
+          "brown",
+          "standing",
+          "leopard",
+          "field",
+          "small",
+          "sitting",
+          "dry",
+          "young",
+          "walking",
+          "top",
+          "large",
+          "baby",
+          "bird",
+          "group",
+          "zebra",
+          "tall",
+          "bear",
+          "giraffe",
+          "forest",
+          "grazing",
+          "grassy",
+          "herd",
+          "man",
+          "white"
+        ],
+        "captions": [
+          {
+            "text": "a leopard standing on a dry grass field",
+            "confidence": 0.968698868969279
+          }
+        ]
+      },
+      "requestId": "e20dcdbd-e9fc-4e63-9432-30177b6cbdb2",
+      "metadata": {
+        "width": 500,
+        "height": 281,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.85946388888889",
+    "long": "-24.752833333333335",
+    "url": "http://farm5.static.flickr.com/4448/37415588690_f45d6f5d5f.jpg",
+    "title": "Cheetah Youngsters",
+    "classification": {
+      "tags": [
+        {
+          "name": "grass",
+          "confidence": 0.9999997615814209
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9990647435188293
+        },
+        {
+          "name": "mammal",
+          "confidence": 0.998676598072052,
+          "hint": "animal"
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9980385899543762
+        },
+        {
+          "name": "big cat",
+          "confidence": 0.9954458475112915,
+          "hint": "animal"
+        },
+        {
+          "name": "dry",
+          "confidence": 0.9927636981010437
+        },
+        {
+          "name": "field",
+          "confidence": 0.9500204920768738
+        },
+        {
+          "name": "brown",
+          "confidence": 0.9499345421791077
+        },
+        {
+          "name": "tall",
+          "confidence": 0.9002075791358948
+        },
+        {
+          "name": "cheetah",
+          "confidence": 0.8395800590515137,
+          "hint": "animal"
+        },
+        {
+          "name": "standing",
+          "confidence": 0.8303350806236267
+        },
+        {
+          "name": "high",
+          "confidence": 0.2046668827533722
+        }
+      ],
+      "description": {
+        "tags": [
+          "grass",
+          "animal",
+          "mammal",
+          "outdoor",
+          "cat",
+          "dry",
+          "field",
+          "brown",
+          "tall",
+          "cheetah",
+          "standing",
+          "small",
+          "open",
+          "group",
+          "high",
+          "top",
+          "grazing",
+          "little",
+          "grassy",
+          "large",
+          "walking",
+          "zebra"
+        ],
+        "captions": [
+          {
+            "text": "a cheetah standing on a dry grass field",
+            "confidence": 0.9886729464921792
+          }
+        ]
+      },
+      "requestId": "1f2cb914-62ef-4f3f-a0d3-9ed8a03798b7",
+      "metadata": {
+        "width": 500,
+        "height": 281,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.85946388888889",
+    "long": "-24.752833333333335",
+    "url": "http://farm5.static.flickr.com/4483/37415588160_9da31d8406.jpg",
+    "title": "Cheetah",
+    "classification": {
+      "tags": [
+        {
+          "name": "grass",
+          "confidence": 0.9999802112579346
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9916127920150757
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9915532469749451
+        },
+        {
+          "name": "mammal",
+          "confidence": 0.9876307845115662,
+          "hint": "animal"
+        },
+        {
+          "name": "standing",
+          "confidence": 0.9186277985572815
+        },
+        {
+          "name": "big cat",
+          "confidence": 0.9121457934379578,
+          "hint": "animal"
+        },
+        {
+          "name": "dry",
+          "confidence": 0.8617571592330933
+        },
+        {
+          "name": "brown",
+          "confidence": 0.8182637691497803
+        },
+        {
+          "name": "tall",
+          "confidence": 0.7756785750389099
+        },
+        {
+          "name": "field",
+          "confidence": 0.7541936635971069
+        },
+        {
+          "name": "cheetah",
+          "confidence": 0.7190739512443542,
+          "hint": "animal"
+        }
+      ],
+      "description": {
+        "tags": [
+          "grass",
+          "outdoor",
+          "animal",
+          "mammal",
+          "standing",
+          "cat",
+          "dry",
+          "brown",
+          "tall",
+          "field",
+          "large",
+          "group",
+          "zebra",
+          "young",
+          "high",
+          "grazing",
+          "grassy",
+          "white",
+          "giraffe"
+        ],
+        "captions": [
+          {
+            "text": "a zebra standing on top of a dry grass field",
+            "confidence": 0.978305460685288
+          }
+        ]
+      },
+      "requestId": "3d085d58-49e2-4ce3-811f-da193e525235",
+      "metadata": {
+        "width": 500,
+        "height": 281,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.156552777777776",
+    "long": "-25.422747222222224",
+    "url": "http://farm5.static.flickr.com/4505/36975143693_8c02eda631.jpg",
+    "title": "2GB DDR3 RAM.",
+    "classification": {
+      "tags": [
+        {
+          "name": "person",
+          "confidence": 0.947847843170166
+        },
+        {
+          "name": "hand",
+          "confidence": 0.8775509595870972
+        }
+      ],
+      "description": {
+        "tags": [
+          "person",
+          "hand",
+          "holding",
+          "small",
+          "black",
+          "sitting",
+          "circuit"
+        ],
+        "captions": [
+          {
+            "text": "a hand holding a circuit board",
+            "confidence": 0.8376450508844255
+          }
+        ]
+      },
+      "requestId": "b0a15486-a6f5-4b5e-82da-d552f618ab7f",
+      "metadata": {
+        "width": 375,
+        "height": 500,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.156552777777776",
+    "long": "-25.422747222222224",
+    "url": "http://farm5.static.flickr.com/4498/37387914980_5e00ea0323.jpg",
+    "title": "2GB DDR3 RAM.",
+    "classification": {
+      "tags": [
+        {
+          "name": "sky",
+          "confidence": 0.9877120852470398
+        },
+        {
+          "name": "person",
+          "confidence": 0.9591429829597473
+        },
+        {
+          "name": "hand",
+          "confidence": 0.8219211101531982
+        },
+        {
+          "name": "electronics",
+          "confidence": 0.7133451700210571
+        }
+      ],
+      "description": {
+        "tags": [
+          "person",
+          "hand",
+          "holding",
+          "circuit",
+          "monitor",
+          "front",
+          "computer",
+          "sitting",
+          "top",
+          "table",
+          "small",
+          "screen",
+          "black",
+          "phone",
+          "keyboard",
+          "desk",
+          "man",
+          "red",
+          "standing"
+        ],
+        "captions": [
+          {
+            "text": "a hand holding a circuit board",
+            "confidence": 0.7758259704958553
+          }
+        ]
+      },
+      "requestId": "5429fe02-06a8-42e2-bcb5-2ea9cf362f30",
+      "metadata": {
+        "width": 375,
+        "height": 500,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.896655555555554",
+    "long": "-24.786694444444446",
+    "url": "http://farm5.static.flickr.com/4484/36929287204_0fa872616b.jpg",
+    "title": "White-backed Vultures",
+    "classification": {
+      "tags": [
+        {
+          "name": "bird",
+          "confidence": 0.999971866607666
+        },
+        {
+          "name": "tree",
+          "confidence": 0.9998729228973389
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9993925094604492
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9910238981246948
+        },
+        {
+          "name": "bird of prey",
+          "confidence": 0.9870244264602661,
+          "hint": "bird"
+        },
+        {
+          "name": "vulture",
+          "confidence": 0.9506071209907532,
+          "hint": "bird"
+        },
+        {
+          "name": "perched",
+          "confidence": 0.8710655570030212
+        },
+        {
+          "name": "standing",
+          "confidence": 0.863481879234314
+        },
+        {
+          "name": "branch",
+          "confidence": 0.697202742099762
+        },
+        {
+          "name": "group",
+          "confidence": 0.6561420559883118
+        }
+      ],
+      "description": {
+        "tags": [
+          "bird",
+          "outdoor",
+          "animal",
+          "raptor",
+          "vulture",
+          "sitting",
+          "perched",
+          "standing",
+          "top",
+          "branch",
+          "group",
+          "couple",
+          "small",
+          "brown",
+          "different",
+          "water",
+          "wooden",
+          "white",
+          "yellow"
+        ],
+        "captions": [
+          {
+            "text": "a bird perched on a tree branch",
+            "confidence": 0.9568893258056886
+          }
+        ]
+      },
+      "requestId": "c3433c03-d7ac-4b5c-a903-48ba72dc19a0",
+      "metadata": {
+        "width": 500,
+        "height": 375,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.543530555555556",
+    "long": "-23.67752777777778",
+    "url": "http://farm5.static.flickr.com/4494/37518444756_e272f87b3f.jpg",
+    "title": "Preening time...",
+    "classification": {
+      "tags": [
+        {
+          "name": "bird",
+          "confidence": 0.9989674091339111
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9943562150001526
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9902375340461731
+        },
+        {
+          "name": "grass",
+          "confidence": 0.9800124764442444
+        },
+        {
+          "name": "aquatic bird",
+          "confidence": 0.7742841243743896,
+          "hint": "bird"
+        },
+        {
+          "name": "standing",
+          "confidence": 0.7609714269638062
+        },
+        {
+          "name": "black",
+          "confidence": 0.7178518176078796
+        }
+      ],
+      "description": {
+        "tags": [
+          "bird",
+          "outdoor",
+          "animal",
+          "grass",
+          "standing",
+          "black",
+          "sitting",
+          "small",
+          "red",
+          "brown",
+          "mouth",
+          "top",
+          "large",
+          "eating",
+          "little",
+          "field",
+          "colorful",
+          "perched",
+          "branch",
+          "holding",
+          "dog",
+          "chicken"
+        ],
+        "captions": [
+          {
+            "text": "a bird that is standing in the grass",
+            "confidence": 0.9712420823153586
+          }
+        ]
+      },
+      "requestId": "f6b7b0c8-73c4-4b87-bc79-f21f3214a274",
+      "metadata": {
+        "width": 500,
+        "height": 332,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.924069444444445",
+    "long": "-24.642086111111112",
+    "url": "http://farm5.static.flickr.com/4448/23713877538_3c9bccfda4.jpg",
+    "title": "Purple Roller",
+    "classification": {
+      "tags": [
+        {
+          "name": "sky",
+          "confidence": 0.9992877840995789
+        },
+        {
+          "name": "bird",
+          "confidence": 0.9966501593589783
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.994175910949707
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9785955548286438
+        },
+        {
+          "name": "perched",
+          "confidence": 0.8923908472061157
+        },
+        {
+          "name": "roller",
+          "confidence": 0.546887218952179,
+          "hint": "bird"
+        },
+        {
+          "name": "branch",
+          "confidence": 0.4928245544433594
+        }
+      ],
+      "description": {
+        "tags": [
+          "bird",
+          "outdoor",
+          "animal",
+          "sitting",
+          "perched",
+          "top",
+          "small",
+          "branch",
+          "brown",
+          "black",
+          "wire",
+          "long",
+          "yellow",
+          "orange",
+          "large",
+          "standing",
+          "colorful",
+          "wooden",
+          "blue"
+        ],
+        "captions": [
+          {
+            "text": "a bird sitting on a branch",
+            "confidence": 0.9394829116142015
+          }
+        ]
+      },
+      "requestId": "e4271b0b-5bea-401c-85d4-31c01f0dceb5",
+      "metadata": {
+        "width": 500,
+        "height": 375,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.596930555555556",
+    "long": "-24.994830555555556",
+    "url": "http://farm5.static.flickr.com/4505/23697213488_f84387f406.jpg",
+    "title": "Blauw up",
+    "classification": {
+      "tags": [
+        {
+          "name": "tree",
+          "confidence": 1
+        },
+        {
+          "name": "bird",
+          "confidence": 0.9999371767044067
+        },
+        {
+          "name": "branch",
+          "confidence": 0.9997950196266174
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9997676014900208
+        },
+        {
+          "name": "sitting",
+          "confidence": 0.9981953501701355
+        },
+        {
+          "name": "perched",
+          "confidence": 0.9979385733604431
+        },
+        {
+          "name": "animal",
+          "confidence": 0.8875600695610046
+        },
+        {
+          "name": "oscine",
+          "confidence": 0.7854037880897522,
+          "hint": "bird"
+        },
+        {
+          "name": "colorful",
+          "confidence": 0.6670317649841309
+        },
+        {
+          "name": "black",
+          "confidence": 0.6534293293952942
+        },
+        {
+          "name": "blue",
+          "confidence": 0.4538388252258301
+        },
+        {
+          "name": "colored",
+          "confidence": 0.36855965852737427
+        }
+      ],
+      "description": {
+        "tags": [
+          "tree",
+          "bird",
+          "branch",
+          "outdoor",
+          "sitting",
+          "perched",
+          "small",
+          "top",
+          "animal",
+          "colorful",
+          "black",
+          "blue",
+          "resting",
+          "colored",
+          "brown",
+          "red",
+          "little",
+          "standing",
+          "yellow",
+          "white"
+        ],
+        "captions": [
+          {
+            "text": "a small bird perched on a tree branch",
+            "confidence": 0.9868135024979514
+          }
+        ]
+      },
+      "requestId": "3ce4457a-68bd-40d1-aa36-4e30d00995ac",
+      "metadata": {
+        "width": 500,
+        "height": 333,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.554722222222225",
+    "long": "-23.988333333333333",
+    "url": "http://farm5.static.flickr.com/4504/37289028490_11f031022d.jpg",
+    "title": "Zebra",
+    "classification": {
+      "tags": [
+        {
+          "name": "zebra",
+          "confidence": 0.9999990463256836,
+          "hint": "animal"
+        },
+        {
+          "name": "standing",
+          "confidence": 0.9971491694450378
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9867541193962097
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9810866713523865
+        },
+        {
+          "name": "looking",
+          "confidence": 0.9642948508262634
+        },
+        {
+          "name": "black",
+          "confidence": 0.8413048982620239
+        },
+        {
+          "name": "staring",
+          "confidence": 0.6860277056694031
+        },
+        {
+          "name": "facing",
+          "confidence": 0.6547231674194336
+        },
+        {
+          "name": "close",
+          "confidence": 0.596236526966095
+        },
+        {
+          "name": "dirt",
+          "confidence": 0.24269485473632812
+        }
+      ],
+      "description": {
+        "tags": [
+          "zebra",
+          "standing",
+          "animal",
+          "camera",
+          "outdoor",
+          "looking",
+          "black",
+          "staring",
+          "facing",
+          "field",
+          "close",
+          "face",
+          "photo",
+          "white",
+          "background",
+          "couple",
+          "front",
+          "side",
+          "head",
+          "dirt",
+          "group",
+          "grassy",
+          "green",
+          "zoo"
+        ],
+        "captions": [
+          {
+            "text": "a couple of zebra standing side by side looking at the camera",
+            "confidence": 0.9579877034818596
+          }
+        ]
+      },
+      "requestId": "c8c04bdf-2136-401b-bea0-05ba873152dc",
+      "metadata": {
+        "width": 500,
+        "height": 500,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.57589722222222",
+    "long": "-23.85297777777778",
+    "url": "http://farm5.static.flickr.com/4502/36876445453_4ca4b0fe75.jpg",
+    "title": "DSC_8639",
+    "classification": {
+      "tags": [
+        {
+          "name": "bird",
+          "confidence": 0.9981557726860046
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9698243141174316
+        },
+        {
+          "name": "branch",
+          "confidence": 0.8724810481071472
+        },
+        {
+          "name": "perched",
+          "confidence": 0.7738662362098694
+        },
+        {
+          "name": "tyrannid",
+          "confidence": 0.7357361912727356,
+          "hint": "bird"
+        },
+        {
+          "name": "wire",
+          "confidence": 0.6579657793045044
+        },
+        {
+          "name": "colorful",
+          "confidence": 0.26846832036972046
+        }
+      ],
+      "description": {
+        "tags": [
+          "bird",
+          "animal",
+          "small",
+          "sitting",
+          "branch",
+          "perched",
+          "wire",
+          "top",
+          "black",
+          "little",
+          "standing",
+          "yellow",
+          "white",
+          "colorful",
+          "blue",
+          "hanging",
+          "table",
+          "brown",
+          "gray",
+          "wooden",
+          "red"
+        ],
+        "captions": [
+          {
+            "text": "a small bird perched on a branch",
+            "confidence": 0.9352829065908895
+          }
+        ]
+      },
+      "requestId": "e01a7604-8cb0-491d-9140-a7b8cd912dde",
+      "metadata": {
+        "width": 500,
+        "height": 332,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.792461111111113",
+    "long": "-24.433588888888888",
+    "url": "http://farm5.static.flickr.com/4512/36835658154_2857a84633.jpg",
+    "title": "Magpie Shrike",
+    "classification": {
+      "tags": [
+        {
+          "name": "bird",
+          "confidence": 0.999845027923584
+        },
+        {
+          "name": "tree",
+          "confidence": 0.9960691928863525
+        },
+        {
+          "name": "outdoor",
+          "confidence": 0.9897218346595764
+        },
+        {
+          "name": "perched",
+          "confidence": 0.9835516810417175
+        },
+        {
+          "name": "sitting",
+          "confidence": 0.9703264236450195
+        },
+        {
+          "name": "branch",
+          "confidence": 0.9558424353599548
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9371140003204346
+        },
+        {
+          "name": "black",
+          "confidence": 0.7726947665214539
+        },
+        {
+          "name": "oscine",
+          "confidence": 0.563707172870636,
+          "hint": "bird"
+        }
+      ],
+      "description": {
+        "tags": [
+          "bird",
+          "outdoor",
+          "perched",
+          "sitting",
+          "branch",
+          "animal",
+          "small",
+          "top",
+          "black",
+          "brown",
+          "standing",
+          "resting",
+          "yellow",
+          "large",
+          "colorful",
+          "blue"
+        ],
+        "captions": [
+          {
+            "text": "a small bird perched on a tree branch",
+            "confidence": 0.9666336271346639
+          }
+        ]
+      },
+      "requestId": "36fd4e27-7b33-44ab-8c9a-c41bffed1105",
+      "metadata": {
+        "width": 500,
+        "height": 375,
+        "format": "Jpeg"
+      }
+    }
+  },
+  {
+    "lat": "31.777194444444444",
+    "long": "-24.394944444444445",
+    "url": "http://farm5.static.flickr.com/4483/23682177158_e950fbca98.jpg",
+    "title": "Honey Badger",
+    "classification": {
+      "tags": [
+        {
+          "name": "ground",
+          "confidence": 0.9913478493690491
+        },
+        {
+          "name": "animal",
+          "confidence": 0.9810082912445068
+        },
+        {
+          "name": "mammal",
+          "confidence": 0.7830317616462708,
+          "hint": "animal"
+        }
+      ],
+      "description": {
+        "tags": [
+          "animal",
+          "cat",
+          "brown",
+          "standing",
+          "dog",
+          "black",
+          "looking",
+          "sitting",
+          "small",
+          "front",
+          "open",
+          "laying",
+          "close",
+          "white",
+          "beach",
+          "walking",
+          "bird",
+          "street",
+          "dirt",
+          "water",
+          "sheep",
+          "playing"
+        ],
+        "captions": [
+          {
+            "text": "a close up of an animal",
+            "confidence": 0.8995520334228948
+          }
+        ]
+      },
+      "requestId": "8d3666ee-e483-4b13-9ce3-883caf159a61",
+      "metadata": {
+        "width": 500,
+        "height": 375,
+        "format": "Jpeg"
+      }
+    }
+  }
+]
