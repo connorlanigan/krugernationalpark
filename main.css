@@ -33,3 +33,32 @@ h1 {
     flex:1;
     height:100%;
 }
+
+.leaflet-control-layers-overlays span {
+    text-transform: capitalize;
+}
+
+#hideall {
+    position:fixed;
+    top:20px;
+    right:20px;
+}
+
+.loading {
+    position:fixed;
+    top:0;
+    right:0;
+    left:0;
+    bottom:0;
+    z-index:9999999;
+    background-color:rgba(0,0,0,0.6);
+    text-align:center;
+}
+
+.loading img {
+    margin: auto auto;
+    position:absolute;
+    display:none;
+    top:50%;
+    filter:invert();
+}

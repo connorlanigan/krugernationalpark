@@ -9,12 +9,12 @@ var animals = {
 	}
 }
 
-function dot(lat, long, animal, popup) {
+function dot(lat, long, color, popup) {
 	var marker = L.circleMarker([lat, long], {
-		"radius": 5,
+		"radius": 10,
 		"stroke": false,
 		"fillOpacity": 1,
-		"color": animals[animal].color
+		"color": color
 	}).bindPopup(popup);
 	marker.on('mouseover', function (e) {
 		this.openPopup();
@@ -78,47 +78,87 @@ function loadMSData() {
 function loadData() {
 	var dataP = loadOurData()
 
-	return dataP.then(data => data.map(x => {
-		return dot(x.long, x.lat, "lion", `${x.popup}<br><img class="popupimage" src="${x.url}"/>`)
-	}))
+
+	return dataP.then(data => {
+		var grouped = data.reduce(function (r, a) {
+			r[a.class] = r[a.class] || [];
+			r[a.class].push(a);
+			return r;
+		}, Object.create(null));
+		console.log("Grouped", grouped)
+		var result = Object.keys(grouped).map(group => {
+			var groupColor = getRandomColor()
+			grouped[group] = L.layerGroup(grouped[group].map(key => {
+				return dot(key.long, key.lat, groupColor, `${key.popup}<br><img class="popupimage" src="${key.url}"/>`)
+			}))
+		})
+		return grouped;
+	})
 }
 
 function loadOurData() {
 
-	return fetch("kruger.json").then(x => x.json()).then( data => {
-		return data.map( element => {
+	return fetch("kruger.json").then(x => x.json()).then(data => {
+		return data.filter(element => element.prob > 0.6).map(element => {
+			element.class = element.class.replace(/_/g, " ")
 			element.url = element.photo_url
 			element.popup = `${element.class} (${(element.prob * 100).toFixed(0)}%)`
 			return element
 		})
 	})
-	return dot(x.long, x.lat, "lion", `<img class="popupimage" src="${x.photo_url}"/>`)
 }
 
 //generateMSData().then(x => document.write(JSON.stringify(x)))
+
 
 Promise.all([loadData(), loadTiles()]).then(result => {
 
 	var data = result[0];
 
-	console.log("Animals:", data.length )
+	console.log("Animals:", data.length)
+	console.log("Data:", data)
 
 	var tiles = result[1];
 
 	var mymap = L.map('mapid', {
 		zoom: 8,
+		preferCanvas: true,
 		center: [-23.898160, 31.642785],
-		layers: [Object.values(tiles)[0]].concat(data)
+		layers: [Object.values(tiles)[0]]//.concat(Object.values(data))
 	});
 
-	L.control.layers(tiles, data).addTo(mymap);
+	L.control.layers(tiles, data, {
+		"sortLayers": true
+	}).addTo(mymap);
+
+	document.getElementById("hideall").onclick = () => {
+		document.getElementById("overlay").style.display = "block"
+		setTimeout(() => {
+
+			var number = 0;
+			Object.values(data).forEach(layer => {
+				//number++;
+				//console.log("Hiding layer", number, layer)
+				mymap.addLayer(layer);
+				//mymap.removeLayer(layer);
+			})
+
+			document.getElementById("overlay").style.display = "none"
+		})
+	}
 
 
 	addCurrentLocation(mymap);
-
-
 })
 
+function getRandomColor() {
+	var letters = '0123456789ABCDEF';
+	var color = '#';
+	for (var i = 0; i < 6; i++) {
+		color += letters[Math.floor(Math.random() * 16)];
+	}
+	return color;
+}
 function generateMSData() {
 
 	return fetch("kruger.json").then(x => x.json()).then(x => x.map(y => {
