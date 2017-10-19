@@ -70,6 +70,7 @@ function loadMSData() {
 	return fetch("classified.json").then(x => x.json()).then(data => {
 		return data.map(element => {
 			element.popup = element.classification.description.captions[0].text
+			element.class = element.popup
 			return element
 		})
 	})
